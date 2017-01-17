@@ -1,0 +1,2 @@
+# Automated_cooling_system
+When temperature is low then AC/fan turns OFF  and when its high the AC/fan turns ON. The admin/responsible people(person) will be informed when the both event happens.  This has been achieved by Temboo Web service (IOT) communicating with Arduino board (with components connected to it), then from Temboo Cloud communicate with Gmail API . So through Gmail API the information can reach the responsible person through email.
